@@ -2,20 +2,13 @@
 
 > A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## 项目框架
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+vue.js 2.x
+```
+### 简介
+```
+仿去哪儿网的一个纯移动端网页
+没有用ui框架，都是手写的css，不过参考了官方的很多设置
+图标的适配好像还不是很好的样子
+```
