@@ -9,10 +9,10 @@
         :src="bannerImg"
       />
       <div class="banner-info">
-        <div class="banner-title">{{this.sightName}}</div>
+        <div class="banner-title">{{sightName}}</div>
         <div class="banner-number">
           <span class="iconfont banner-icon">&#xe695;</span>
-          {{this.bannerImgs.length}}
+          {{bannerImgs.length}}
         </div>
       </div>
     </div>

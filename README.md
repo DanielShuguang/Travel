@@ -1,14 +1,24 @@
 # travel
 
-> A Vue.js project
+## Project setup
+```
+npm install
+```
 
-## 项目框架
+### Compiles and hot-reloads for development
 ```
-vue.js 2.x
+npm run serve
 ```
-### 简介
+
+### Compiles and minifies for production
 ```
-仿去哪儿网的一个纯移动端网页
-没有用ui框架，都是手写的css，不过参考了官方的很多设置
-图标的适配好像还不是很好的样子
+npm run build
 ```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
